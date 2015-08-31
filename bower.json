@@ -1,0 +1,28 @@
+{
+  "name": "rxdrawing",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codepreneur/rxdrawing",
+  "authors": [
+    "codepreneur <contramundee@gmail.com>"
+  ],
+  "description": "Firebase and Rx.js",
+  "main": "index.html",
+  "keywords": [
+    "firebase",
+    "rx"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "firebase": "~2.2.9",
+    "jquery": "~2.1.4",
+    "rxjs": "~3.1.1"
+  }
+}
